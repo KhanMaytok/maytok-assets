@@ -1,4 +1,4 @@
-var defaultTitle = 'This is ZenPen';
+var defaultTitle = 'Bienvenido';
 var defaultContent = 
 '<p>\
 A minimalist writing zone, where you can block out all distractions and get to what\'s important. The writing!  \
