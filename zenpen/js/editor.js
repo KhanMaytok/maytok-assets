@@ -247,7 +247,11 @@ ZenPen.editor = (function() {
 	}
 
 	function loadDefaultContent() {
-		contentField.innerHTML = defaultContent; // in default.js
+		if(typeof(skContent) == 'undefined' || skContent == '<p></p>') {
+			contentField.innerHTML = defaultContent;
+		}else{
+			contentField.innerHTML = skContent;
+		}		
 	}
 
 	function onBoldClick() {
