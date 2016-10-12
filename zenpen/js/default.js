@@ -1,18 +1,17 @@
 var defaultTitle = 'Bienvenido';
 var defaultContent = 
 '<p>\
-A minimalist writing zone, where you can block out all distractions and get to what\'s important. The writing!  \
+Esta es una zona minimalista libre de distracciones para concentrarse en lo que más importa: ¡Escribir!  \
 </p>\
 <p> \
-	To get started, all you need to do is delete this text (seriously, just highlight it and hit delete), and fill the page with your own fantastic words. You can even change the title!  \
+	Para comenzar, todo lo que necesitas es eliminar este texto (es en serio, solo resalta y elimina) y comienzar a escribir. \
 </p> \
 <p> \
-	You can use <b>bold</b>, <i>italics</i>, <b><i>both</i></b> and <a href="http://zenpen.io"> urls </a> just by highlighting the text and selecting them from the tiny options box that appears above it.\
+	Puedes usar <b>negritas</b>, <i>cursivas</i>, <b><i>ambas</i></b>, incluso and <a href="http://zenpen.io"> enlaces </a> con solo resaltar el text y elegir una opción en la caja que aparecerá.\
 </p>\
 <blockquote>\
-	Quotes are easy to add too!\
+	Citar texto es igual de fácil\
 </blockquote>\
 <p>\
-	For <i>questions</i> and <b>open source info</b>, Click that little question mark at the bottom left of the screen.\
-</p>\
-<p>Happy Typing! ~ <b>Tim Holman (@twholman)</b></p>';
+	Para <i>preguntas</i> y <b>información open source</b>, Click en el símbolo de interrogación en la esquina inferior.\
+</p>';
