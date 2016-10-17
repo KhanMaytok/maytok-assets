@@ -232,13 +232,8 @@ ZenPen.editor = (function() {
 			headerField.innerHTML = localStorage[ 'header' ];
 		} else {
 			headerField.innerHTML = defaultTitle; // in default.js
-		}
-
-		if ( localStorage[ 'content' ] ) {
-			contentField.innerHTML = localStorage[ 'content' ];
-		} else {
-			loadDefaultContent()
-		}
+		}	
+		loadDefaultContent()		
 	}
 
 	function loadDefault() {
